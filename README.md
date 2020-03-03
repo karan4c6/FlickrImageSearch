@@ -8,9 +8,9 @@
 6. Using Gson, Retrofit and Glide library.
 
 
-Format: ![Cat Image Search](/screenshots/cat.png)
+![Cat Image Search](/screenshots/cat.png)
 
 
-Format: ![Goat Image Search](/screenshots/goat.png)
+![Goat Image Search](/screenshots/goat.png)
 
-Format: ![Image Search Demo](/screenshots/flickrdemo.mov)
+![Image Search Video Demo](/screenshots/flickrdemo.mov)
