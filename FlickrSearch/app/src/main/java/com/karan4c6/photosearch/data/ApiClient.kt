@@ -1,5 +1,6 @@
 package com.karan4c6.photosearch.data
 
+import com.karan4c6.photosearch.model.PhotoResponse
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Call

@@ -2,7 +2,6 @@ package com.karan4c6.photosearch.model
 
 import com.karan4c6.photosearch.data.ApiClient
 import com.karan4c6.photosearch.data.OperationCallback
-import com.karan4c6.photosearch.data.PhotoResponse
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
